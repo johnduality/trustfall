@@ -4,7 +4,7 @@ title: Trust Fall
 ---
 
 
-anicca dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
+anatta anicca dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
 piti sukha ekagatta vitakka vicara nivarana hindrances yoniso manasikara mindfulness samma ditthi sankappa vaca kammanta ajiva vayama sati samadhi path factors silabbata-paramasa vicikiccha uddhacca-kukkucca thina-middha byapada kamacchanda sensual desire ill-will sloth torpor restlessness doubt
 # test
 ## test 
