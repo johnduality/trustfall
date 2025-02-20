@@ -3,6 +3,7 @@ layout: default
 ---
 
 <center># Trust Fall:</center></h1>
+
 <center># A Guide to Letting Go of Struggle</center>
 
 anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...anicca dukkha satipatthana lorem...
