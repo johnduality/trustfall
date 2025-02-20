@@ -1,19 +1,10 @@
 ---
 layout: default
-title: Trust Fall
 ---
+<style>
+body { background-color: #E6E6FA !important; }
+</style>
 
+# Trust Fall
 
-anatta anicca dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
-piti sukha ekagatta vitakka vicara nivarana hindrances yoniso manasikara mindfulness samma ditthi sankappa vaca kammanta ajiva vayama sati samadhi path factors silabbata-paramasa vicikiccha uddhacca-kukkucca thina-middha byapada kamacchanda sensual desire ill-will sloth torpor restlessness doubt
-# test
-## test 
-## test
-dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
-piti sukha ekagatta vitakka vicara nivarana hindrances yoniso manasikara mindfulness samma ditthi sankappa vaca kammanta ajiva vayama sati samadhi path factors silabbata-paramasa vicikiccha uddhacca-kukkucca thina-middha byapada kamacchanda sensual desire ill-will sloth torpor restlessness doubt
-dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
-piti sukha ekagatta vitakka vicara nivarana hindrances yoniso manasikara mindfulness samma ditthi sankappa vaca kammanta ajiva vayama sati samadhi path factors silabbata-paramasa vicikiccha uddhacca-kukkucca thina-middha byapada kamacchanda sensual desire ill-will sloth torpor restlessness doubt
-dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
-piti sukha ekagatta vitakka vicara nivarana hindrances yoniso manasikara mindfulness samma ditthi sankappa vaca kammanta ajiva vayama sati samadhi path factors silabbata-paramasa vicikiccha uddhacca-kukkucca thina-middha byapada kamacchanda sensual desire ill-will sloth torpor restlessness doubt
-dukkha satipatthana lorem anicca vipassana ipsum dhamma sangha paticcasamuppada dolor sit anapanasati amet bhavana kilesa consectetur adipiscing sila samadhi panna elit samatha jhana tempor nibanna incididunt karuna metta mudita upekkha ut labore et magga phala magna aliqua vedana sanna sankhara vinnana ut enim ad visuddhi minim veniam quis nostrud sunnata tanha upadana bhava jati examination ullamco nirodhis laboris nisi ut aliquip ex ea commodo consequat duis aute irure dukkha in reprehenderit in voluptate velit esse cillum samsara non proident sunt in culpa qui officia deserunt mollit anim id est kamma
-piti sukha ekagatta vitakka vicara nivarana hindrances yoniso manasikara mindfulness samma ditthi sankappa vaca kammanta ajiva vayama sati samadhi path factors silabbata-paramasa vicikiccha uddhacca-kukkucca thina-middha byapada kamacchanda sensual desire ill-will sloth torpor restlessness doubt
+anicca dukkha satipatthana lorem...
