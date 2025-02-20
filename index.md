@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center># Trust Fall:</center></h1>
+<center># Trust Fall:</center>
 
 <center># A Guide to Letting Go of Struggle</center>
 
