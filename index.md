@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<center># Trust Fall:</center>
+# <center>Trust Fall:</center>
 
-<center># A Guide to Letting Go of Struggle</center>
+# <center>A Guide to Letting Go of Struggle</center>
 
 Donec facilisis accumsan tortor, non facilisis risus bibendum a. Nullam quis cursus ipsum, vel egestas sapien. Maecenas sed metus in dui venenatis consequat. Fusce ultricies posuere lacus ut semper. In hac habitasse platea dictumst. Etiam ac tincidunt ex, in ullamcorper enim. Proin aliquet et arcu vitae sollicitudin. In accumsan placerat diam vel pellentesque. Curabitur eget sagittis nibh, ac dapibus ipsum. Maecenas eget nibh vitae ipsum interdum blandit quis sit amet turpis. In ullamcorper lobortis tortor, vitae condimentum metus accumsan et. Phasellus hendrerit sem sit amet ipsum lacinia tempor. Nulla non molestie ipsum, ut aliquam neque.
 
