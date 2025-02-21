@@ -1,8 +1,9 @@
 ---
 layout: default
+title: "Trust Fall: How to Let Go of Struggle"
 ---
 
-<h1 align="center"><i>Trust Fall: How to Let Go of Struggle</i></h1>
+# Introduction
 
 Donecz facilisis accumsan tortor, non facilisis risus bibendum a. Nullam quis cursus ipsum, vel egestas sapien. Maecenas sed metus in dui venenatis consequat. Fusce ultricies posuere lacus ut semper. In hac habitasse platea dictumst. Etiam ac tincidunt ex, in ullamcorper enim. Proin aliquet et arcu vitae sollicitudin. In accumsan placerat diam vel pellentesque. Curabitur eget sagittis nibh, ac dapibus ipsum. Maecenas eget nibh vitae ipsum interdum blandit quis sit amet turpis. In ullamcorper lobortis tortor, vitae condimentum metus accumsan et. Phasellus hendrerit sem sit amet ipsum lacinia tempor. Nulla non molestie ipsum, ut aliquam neque.
 
@@ -14,11 +15,13 @@ Nunc laoreet posuere elit, ac gravida sapien dictum non. Ut cursus eros est, a p
 
 Proin ultrices ligula feugiat ex malesuada maximus. Vivamus ullamcorper, metus et ullamcorper dictum, metus tellus mattis nulla, vel fringilla elit sapien ac sapien. Quisque et risus mattis, rutrum mi lobortis, molestie metus. Nullam sodales rutrum ullamcorper. Duis viverra turpis quam, a aliquam risus lobortis mollis. Sed consequat malesuada semper. Sed sodales tortor libero, vitae fermentum dui varius vitae. Etiam nibh leo, egestas at sagittis quis, efficitur nec arcu.
 
+# Technique
+
 Praesent sodales nisi non tellus ornare, sit amet laoreet est dignissim. Vivamus eget accumsan lacus. Morbi bibendum elementum velit sed lobortis. Aenean faucibus tortor quis justo dignissim molestie. Pellentesque ac eleifend metus. Etiam et turpis elementum, molestie ex ac, viverra lacus. Mauris sapien nisi, interdum id tempus ac, gravida ac quam.
 
-Etiam eu maximus ante. Morbi porttitor tincidunt sem, ac vestibulum massa vehicula a. Mauris malesuada lorem in congue ornare. Nam iaculis sollicitudin dolor quis posuere. Donec pellentesque ipsum neque, at vehicula elit sodales in. Integer venenatis elementum augue, ac sagittis libero semper et. Suspendisse dapibus ac eros eget consequat. Suspendisse ut lacinia felis. Nam vehicula mauris lacus, sit amet auctor urna suscipit sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas non suscipit ante. Proin sit amet est nulla. Maecenas massa ex, vulputate non tempor eget, ultricies a est. Pellentesque magna lectus, rhoncus vel tincidunt eget, fermentum vel purus. Etiam eget tortor et ex feugiat blandit at nec felis.
+> Etiam eu maximus ante. Morbi porttitor tincidunt sem, ac vestibulum massa vehicula a. Mauris malesuada lorem in congue ornare. Nam iaculis sollicitudin dolor quis posuere. Donec pellentesque ipsum neque, at vehicula elit sodales in. Integer venenatis elementum augue, ac sagittis libero semper et. Suspendisse dapibus ac eros eget consequat. Suspendisse ut lacinia felis. Nam vehicula mauris lacus, sit amet auctor urna suscipit sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas non suscipit ante. Proin sit amet est nulla. Maecenas massa ex, vulputate non tempor eget, ultricies a est. Pellentesque magna lectus, rhoncus vel tincidunt eget, fermentum vel purus. Etiam eget tortor et ex feugiat blandit at nec felis.
 
-Vivamus sollicitudin placerat lorem et lobortis. Praesent in eros venenatis, tincidunt enim ac, ullamcorper diam. Nulla imperdiet placerat orci, vitae sollicitudin ex ornare vitae. Sed eget commodo ligula. In vitae tempus felis. In ut leo sed nulla sollicitudin gravida. Curabitur eleifend, ligula quis faucibus elementum, nulla ante viverra odio, id pharetra enim arcu iaculis magna. In et sem mi. Praesent augue elit, sodales in ex a, commodo iaculis eros. Etiam sagittis lorem at lorem maximus vehicula.
+Vivamus sollicitudin placerat lorem et lobortis. Praesent in eros venenatis, tincidunt enim ac, ullamcorper diam. Nulla imperdiet placerat orci, vitae sollicitudin ex ornare vitae. Sed eget commodo ligula. [In vitae tempus felis. In ut leo sed nulla sollicitudin gravida.](https://google.com) Curabitur eleifend, ligula quis faucibus elementum, nulla ante viverra odio, id pharetra enim arcu iaculis magna. In et sem mi. Praesent augue elit, sodales in ex a, commodo iaculis eros. Etiam sagittis lorem at lorem maximus vehicula.
 
 Donec ac placerat felis. Donec neque leo, accumsan et magna vel, mattis suscipit mauris. Aliquam id finibus tortor, sollicitudin dapibus velit. Praesent dapibus condimentum nulla. Phasellus vel purus purus. Donec odio nunc, aliquam eu dolor in, fermentum condimentum nisi. Aenean id quam in ipsum vehicula fermentum eget at quam. Duis sagittis imperdiet efficitur. Donec vel sapien malesuada, imperdiet urna nec, vehicula nisi. Maecenas cursus tincidunt nisi nec venenatis. Aliquam cursus at tellus sit amet accumsan.
 

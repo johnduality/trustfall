@@ -1,18 +1,84 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }}{% else %}Page{% endif %}</title>
     <style>
-        body {
-            background-color: #E6E6FA;
+body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
             max-width: 800px;
             margin: 0 auto;
             padding: 2rem;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            line-height: 1.6;
+            background-color: #0B0B1A;  /* deep blue-purple background */
+            color: #E6E6E6;  /* light grey for easy reading */
+        }
+
+        .page-title {
+            font-size: 2.5em;
+            font-weight: bold;
+            font-style: italic;
+            text-align: center;
+            color: #CBC3E3;  /* pastel purple */
+            margin-top: 9.6em;
+            margin-bottom: 1em;
+        }
+
+        #toc {
+            background-color: #14142A;  /* slightly lighter blue-purple for contrast */
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+
+        a {
+            color: #E0B0FF;  /* mauve/pastel purple for links */
+            text-decoration: none;
+        }
+
+        h1, h2, h3 {
+            color: #CBC3E3;  /* matching the title color */
+        }
+        #toc ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        #toc li {
+            margin: 0.5rem 0;
+        }
+
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
+    {% if page.title %}
+    <div class="page-title">{{ page.title }}</div>
+    {% endif %}
+
+    <div id="toc">
+        <h2>Contents</h2>
+        <ul>
+        {% assign headers = content | split: '<h1' %}
+        {% for header in headers offset: 1 %}
+            {% assign headerText = header | split: '</h1>' | first | split: '>' | last %}
+            <li><a href="#{{ headerText | slugify }}">{{ headerText }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+
     {{ content }}
+
+    <script>
+        // Add IDs to all h1 headers for TOC linking
+        document.querySelectorAll('h1').forEach(header => {
+            if (!header.id) {
+                header.id = header.textContent.toLowerCase().replace(/\s+/g, '-');
+            }
+        });
+    </script>
 </body>
 </html>
