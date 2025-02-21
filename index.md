@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Trust Fall: How to Let Go of Struggle"
+title: "Trust Fall"
 ---
 
 # Introduction
