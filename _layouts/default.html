@@ -48,6 +48,13 @@
             margin-bottom: 1em;
         }
 
+        .page-subtitle {
+            text-align: center;
+            color: var(--text-color);
+            font-size: 1.2em;
+            margin-bottom: 2em;
+        }
+
         #toc {
             background-color: var(--toc-bg);
             padding: 1.5rem;
@@ -139,6 +146,9 @@
 <body>
     {% if page.title %}
     <div class="page-title">{{ page.title }}</div>
+    {% if page.subtitle %}
+    <div class="page-subtitle">{{ page.subtitle }}</div>
+    {% endif %}
     {% endif %}
 
     <div id="toc">
@@ -239,6 +249,23 @@
                 tocButton.style.display = 'flex';
             } else {
                 tocButton.style.display = 'none';
+            }
+        });
+
+        // Save scroll position every second
+        let scrollTimeout;
+        window.addEventListener('scroll', () => {
+            clearTimeout(scrollTimeout);
+            scrollTimeout = setTimeout(() => {
+                localStorage.setItem('scrollPosition', window.scrollY);
+            }, 1000);
+        });
+
+        // Restore scroll position on page load
+        window.addEventListener('load', () => {
+            const savedPosition = localStorage.getItem('scrollPosition');
+            if (savedPosition) {
+                window.scrollTo(0, parseInt(savedPosition));
             }
         });
     </script>
