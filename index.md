@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Trust Fall"
+subtitle: "An internet guide to peace of mind."
 ---
 
 # Introduction
@@ -9,7 +10,13 @@ Donecz facilisis accumsan tortor, non facilisis risus bibendum a. Nullam quis cu
 
 Vestibulum luctus pellentesque urna, a scelerisque leo. Nullam ut felis non tortor sollicitudin lacinia id nec dui. Nam tincidunt dui vel faucibus interdum. Sed tempus, enim sagittis lacinia convallis, augue mi fermentum mi, at efficitur nunc odio sed sem. Aliquam efficitur eget magna et dictum. In porta scelerisque lectus. Maecenas suscipit eu risus in bibendum. Curabitur felis ligula, mollis in feugiat quis, porta et nulla.
 
-Quisque non tempor lacus. Sed cursus sit amet libero eu sagittis. Etiam et tincidunt erat. Suspendisse sit amet fermentum libero. Nunc id erat posuere, sagittis erat quis, elementum dolor. Cras lectus ipsum, accumsan quis vulputate sed, viverra non nulla. Duis viverra vehicula velit, id pulvinar magna dictum quis. Aliquam tortor nibh, feugiat id posuere vel, bibendum ut lectus. Pellentesque lobortis posuere sem sed fermentum. Maecenas commodo quis lorem quis suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo, sapien vel laoreet efficitur, eros tortor luctus lacus, porttitor posuere eros arcu a leo. Fusce vel consectetur augue. Etiam feugiat dui non imperdiet tincidunt.
+> im blue daba dee daba dae
+> 
+> -- idk
+
+Quisque non tempor lacus. Sed cursus sit amet libero eu sagittis. Etiam et tincidunt erat. Suspendisse sit amet fermentum libero. Nunc id erat posuere, sagittis erat quis, elementum dolor. Cras lectus ipsum, accumsan quis vulputate sed, viverra non nulla. Duis viverra vehicula velit, id pulvinar magna dictum quis. Aliquam tortor nibh, feugiat id posuere vel, bibendum ut lectus. Pellentesque lobortis posuere sem sed fermentum. Maecenas commodo quis lorem quis suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo, sapien vel laoreet efficitur, eros tortor luctus lacus, porttitor posuere eros arcu a leo. Fusce vel consectetur augue. Etiam feugiat dui non imperdiet tincidunt.[^1]
+
+[^1]: footnote text
 
 Nunc laoreet posuere elit, ac gravida sapien dictum non. Ut cursus eros est, a pretium urna mattis ac. Aliquam a lobortis turpis. Donec euismod leo neque, et tempor metus efficitur id. Ut scelerisque mauris ut neque tincidunt euismod. Nunc vitae erat sed ligula ullamcorper egestas. Donec sagittis luctus volutpat. Aliquam quis lectus quis nisi tincidunt porttitor id a quam. Pellentesque facilisis eros ut augue accumsan aliquet. Curabitur sagittis dui risus, et suscipit lectus vulputate eu. Nam facilisis luctus augue ut imperdiet.
 
